@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storePassword": "00000022F7177FEA0162F8E44DD474DC39BC229B6463CD6060A52D0AFDB4D7681C4FFD9420526B477B2F6F6EAF93921F59B8",
+          "certpath": "D:/Download/FoxBrowserCertificate.cer",
+          "keyAlias": "FoxBrowserKey",
+          "keyPassword": "000000221E31120F9838EA9532C2DA9F5054AD5109388D70087EAF471B8151C527078C7291EA886191D40254C1C71AEE050F",
+          "profile": "D:/Download/小狐狸浏览器Release.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "D:/foxbrowser.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
