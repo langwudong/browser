@@ -39,6 +39,7 @@
  
 ## 目录
 
+- [示意截图](#示意截图)
 - [上手指南](#上手指南)
   - [安装](#安装)
 - [文件目录说明](#文件目录说明)
@@ -50,6 +51,13 @@
 - [版本控制](#版本控制)
 - [作者](#作者)
 - [鸣谢](#鸣谢)
+
+### 示意截图
+<p align="center">
+  <a href="https://github.com/yourlings/browser/">
+    <img src="example.png" alt="img" width="120" height="120">
+  </a>
+</p>
 
 ### 上手指南
 
