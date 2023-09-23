@@ -55,7 +55,13 @@
 ### 示意截图
 <p align="center">
   <a href="https://github.com/yourlings/browser/">
-    <img src="example.png" alt="img" width="220" height="500">
+    <img src="example01.png" alt="img" width="220" height="500">
+  </a>
+  <a href="https://github.com/yourlings/browser/">
+    <img src="example02.png" alt="img" width="220" height="500">
+  </a>
+  <a href="https://github.com/yourlings/browser/">
+    <img src="example03.png" alt="img" width="220" height="500">
   </a>
 </p>
 
