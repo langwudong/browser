@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/yourlings/browser/">
-    <img src="AppScope/resources/base/media/app_icon.png" alt="img" width="200" height="500">
+    <img src="AppScope/resources/base/media/app_icon.png" alt="img" width="120" height="120">
   </a>
 
   <h3 align="center">ArkTS制作鸿蒙系统的纯净浏览器</h3>
@@ -55,7 +55,7 @@
 ### 示意截图
 <p align="center">
   <a href="https://github.com/yourlings/browser/">
-    <img src="example.png" alt="img" width="120" height="120">
+    <img src="example.png" alt="img" width="200" height="500">
   </a>
 </p>
 
