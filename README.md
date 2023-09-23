@@ -67,7 +67,7 @@
 
 ### 上手指南
 
-你需要在你的设备上安装**DevEco Studio**，并且配置相应的**Node.js**环境。主要文件在**ntry/src/main/ets**中。
+你需要在你的设备上安装**DevEco Studio**，并且配置相应的**Node.js**环境。该项目的主要文件在**entry/src/main/ets**中。
 
 #### 安装
 
