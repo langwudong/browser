@@ -165,6 +165,8 @@ primary filetree
 
 63265742@qq.com
 
+B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007.0.0)
+
 知乎: [朗 吾 東](https://www.zhihu.com/people/---60-9-44)  &ensp; qq: 63265742
 
 *欢迎添加我的联系方式交流学习*
