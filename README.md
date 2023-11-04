@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/yourlings/browser/">
+  <a href="https://github.com/langwudong/browser/">
     <img src="AppScope/resources/base/media/app_icon.png" alt="img" width="120" height="120">
   </a>
 
@@ -25,14 +25,14 @@
   <p align="center">
     欢迎测试、学习以及交流
     <br />
-    <a href="https://github.com/yourlings/browser"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/langwudong/browser"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/yourlings/browser">查看Demo</a>
+    <a href="https://github.com/langwudong/browser">查看Demo</a>
     ·
-    <a href="https://github.com/yourlings/browser/issues">报告Bug</a>
+    <a href="https://github.com/langwudong/browser/issues">报告Bug</a>
     ·
-    <a href="https://github.com/yourlings/browser/issues">提出新特性</a>
+    <a href="https://github.com/langwudong/browser/issues">提出新特性</a>
   </p>
 
 </p>
@@ -54,13 +54,13 @@
 
 ### 示意截图
 <p align="center">
-  <a href="https://github.com/yourlings/browser/">
+  <a href="https://github.com/langwudong/browser/">
     <img src="example01.png" alt="img" width="220" height="500">
   </a>
-  <a href="https://github.com/yourlings/browser/">
+  <a href="https://github.com/langwudong/browser/">
     <img src="example02.png" alt="img" width="220" height="500">
   </a>
-  <a href="https://github.com/yourlings/browser/">
+  <a href="https://github.com/langwudong/browser/">
     <img src="example03.png" alt="img" width="220" height="500">
   </a>
 </p>
@@ -73,7 +73,7 @@
 
 克隆本仓库
 ```sh
-git clone https://github.com/yourlings/browser.git
+git clone https://github.com/langwudong/browser.git
 ```
 
 ### 文件目录说明
@@ -142,7 +142,7 @@ primary filetree
 
 ### 贡献者
 
-- [朗 吾 東](https://github.com/zk63265742)
+- [朗 吾 東](https://github.com/langwudong)
 
 #### 如何参与开源项目
 
@@ -183,16 +183,16 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 暂无
 
 <!-- links -->
-[your-project-path]:yourlings/browser
-[contributors-shield]: https://img.shields.io/github/contributors/yourlings/browser.svg?style=flat-square
-[contributors-url]: https://github.com/yourlings/browser/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/yourlings/browser.svg?style=flat-square
-[forks-url]: https://github.com/yourlings/browser/network/members
-[stars-shield]: https://img.shields.io/github/stars/yourlings/browser.svg?style=flat-square
-[stars-url]: https://github.com/yourlings/browser/stargazers
-[issues-shield]: https://img.shields.io/github/issues/yourlings/browser.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/yourlings/browser.svg
+[your-project-path]:langwudong/browser
+[contributors-shield]: https://img.shields.io/github/contributors/langwudong/browser.svg?style=flat-square
+[contributors-url]: https://github.com/langwudong/browser/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/langwudong/browser.svg?style=flat-square
+[forks-url]: https://github.com/langwudong/browser/network/members
+[stars-shield]: https://img.shields.io/github/stars/langwudong/browser.svg?style=flat-square
+[stars-url]: https://github.com/langwudong/browser/stargazers
+[issues-shield]: https://img.shields.io/github/issues/langwudong/browser.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/langwudong/browser.svg
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/yourlings/browser/blob/master/LICENSE.txt
+[license-url]: https://github.com/langwudong/browser/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yourlings
+[linkedin-url]: https://linkedin.com/in/langwudong
