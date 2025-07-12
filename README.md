@@ -10,7 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GPL-3.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -175,7 +175,7 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 
 ### 版权说明
 
-您只需遵循**GPL 3.0 LENCENSE**。
+您只需遵循**GPL-3.0 License**。
 
 ### 鸣谢
 
