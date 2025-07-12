@@ -192,7 +192,7 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 [stars-url]: https://github.com/langwudong/browser/stargazers
 [issues-shield]: https://img.shields.io/github/issues/langwudong/browser.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/langwudong/browser.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [license-url]: https://github.com/langwudong/browser/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/langwudong
