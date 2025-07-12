@@ -67,7 +67,7 @@
 
 ### 上手指南
 
-你需要在你的设备上安装**DevEco Studio**，并且配置相应的**Node.js**环境。该项目的OpenHarmony的SDK版本已更新至API18，主要文件在**entry/src/main/ets**中。
+你需要在你的设备上安装**DevEco Studio**，并且配置相应的**Node.js**环境。该项目的**OpenHarmony**的**SDK**版本已更新至**API18**，主要文件在**entry/src/main/ets**中。
 
 #### 安装
 
@@ -175,7 +175,7 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 
 ### 版权说明
 
-该项目由个人原创，你可以**下载**该项目进行**学习**。
+该项目由个人原创，你可以**下载**该项目进行**学习**，但**请勿**用于**商业用途**。
 
 ### 鸣谢
 
