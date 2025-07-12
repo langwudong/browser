@@ -185,7 +185,8 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 
 <div align="center">
 
-🌹 **· 最后的礼物 ·** 🌹  
+<h3 style="margin-bottom: 5px;">🌹 · 最后的礼物 · 🌹</h3>
+
 <sub>给时光以温柔，给回忆以永恒</sub>
 
 </div>
