@@ -192,7 +192,7 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
     margin: 20px 0 10px;
     font-family: 'Times New Roman', serif;
 ">
-✦ 最后的礼物 ✦
+🌹 · 最后的礼物 · 🌹
 </h2>
 <p style="
     font-size: 1.15rem;
