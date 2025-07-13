@@ -148,14 +148,11 @@ primary filetree
 
 贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
 
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
 
 ### 版本控制
 
@@ -179,12 +176,7 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 
 ### 鸣谢
 
-
 感谢各位朋友的积极反馈
-
-
-
-
 
 <div align="center">
 
