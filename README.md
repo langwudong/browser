@@ -67,7 +67,7 @@
 
 ### 上手指南
 
-你需要在你的设备上安装**DevEco Studio**，并且配置相应的**Node.js**环境。该项目的**OpenHarmonySDK**版本已更新至**API18**，主要文件在**entry/src/main/ets**中。
+你需要在你的设备上安装**DevEco Studio**，并且配置相应的**Node.js**环境。该项目的**OpenHarmonySDK**版本已更新至**API18**，项目入口文件位于**entry/src/main/ets/pages/Index.ets**中。
 
 #### 安装
 
