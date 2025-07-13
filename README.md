@@ -146,7 +146,7 @@ primary filetree
 
 #### 如何参与开源项目
 
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
+**贡献**使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何**贡献**都是**非常感谢**的。
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -156,7 +156,7 @@ primary filetree
 
 ### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+该项目使用**Git**进行版本管理。您可以在**repository**参看当前可用版本。
 
 ### 作者
 
