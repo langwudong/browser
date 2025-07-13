@@ -187,7 +187,7 @@ B站: [学习累就拿衣架套头上](https://space.bilibili.com/456674958?spm_
     margin: 20px 0 10px;
     font-family: 'Times New Roman', serif;
 ">
-🌹 · 最后的礼物 · 🌹
+🌹 · Parting Gift · 🌹
 </h2>
 <p style="
     font-size: 1.15rem;
