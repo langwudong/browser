@@ -195,7 +195,7 @@ B站: [学习累就拿衣架套头上](https://space.bilibili.com/456674958?spm_
     font-style: italic;
     margin-top: 5px;
 ">
-给时光以温柔，给回忆以永恒
+Grant time its gentleness, grant memory eternity.
 </p>
 
 </div>
