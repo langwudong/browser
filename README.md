@@ -162,7 +162,7 @@ primary filetree
 
 langwudong@yeah.net
 
-QQ: [63265742](https://qm.qq.com/q/tjWsdWqiBi)
+QQ: [63265742](https://qm.qq.com/q/tjWsdWqiBi) &ensp; 抖音: [贾宝玉脚踢西门庆](https://v.douyin.com/0sVC_gEazKU)
 
 小红书: [一本红色的小书](https://xhslink.com/m/6trMKjz92hX)  &ensp; 哔哩哔哩: [学习累就拿衣架套头上](https://space.bilibili.com/456674958?spm_id_from=333.1007.0.0)
 
