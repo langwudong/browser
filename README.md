@@ -162,9 +162,9 @@ primary filetree
 
 langwudong@yeah.net
 
-B站: [学习累就拿衣架套头上](https://space.bilibili.com/456674958?spm_id_from=333.1007.0.0)
+QQ: [63265742](https://qm.qq.com/q/tjWsdWqiBi)
 
-小红书: [朗 吾 東](https://xhslink.com/m/6trMKjz92hX)  &ensp; qq: [63265742](https://qm.qq.com/q/tjWsdWqiBi)
+小红书: [一本红色的小书](https://xhslink.com/m/6trMKjz92hX)  &ensp; qq: [学习累就拿衣架套头上](https://space.bilibili.com/456674958?spm_id_from=333.1007.0.0)
 
 *欢迎添加我的联系方式交流学习*
 
