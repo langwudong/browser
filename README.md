@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/langwudong/browser/">
-    <img src="download.png" alt="img" width="120" height="120">
+    <img src="new_logo.png" alt="img" width="120" height="120">
   </a>
 
   <h3 align="center">ArkTS制作鸿蒙系统的纯净浏览器</h3>
