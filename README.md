@@ -98,7 +98,7 @@ primary filetree
 │                       │  ├─bean
 │                       │  └─constants
 │                       ├─entryability
-│                       ├─model
+│                       ├─utils
 │                       ├─pages
 │                       └─view
 └─src
