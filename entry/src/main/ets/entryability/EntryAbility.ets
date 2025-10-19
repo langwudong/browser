@@ -19,7 +19,7 @@ export default class EntryAbility extends UIAbility {
       await RdbUtils.createDateTable()
 
       // 在数据库初始化完成后加载页面
-      windowStage.loadContent("pages/Index", (err) => {
+      windowStage.loadContent("pages/Start", (err) => {
         if (err.code) {
           console.error(`Failed to load the content. Code:${err.code},message:${err.message}`);
           return

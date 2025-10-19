@@ -1,4 +1,5 @@
 import webview from '@ohos.web.webview'
+
 @Component
 export default struct HistoryItem {
   @State title: string = ""
@@ -38,24 +39,28 @@ export default struct HistoryItem {
       .borderRadius("40px")
       .backgroundColor(Color.White)
       .shadow({ radius: 5, color: Color.Gray })
+      .layoutWeight(1)
       .onClick(() => {
         this.isClicked = ! this.isClicked
         this.isSearched = true
         this.webviewController.loadUrl(this.url)
       })
 
-      // 删除按钮
-      Button({ type: ButtonType.Circle }) {
-        Image(this.deleteIcon)
-          .width(30)
-          .height(30)
+      if (this.showDeleteIcon) {
+        Button({ type: ButtonType.Circle }) {
+          Image(this.deleteIcon)
+            .width(20)
+            .height(20)
+            .fillColor("#E62E31")
+        }
+        .height(30)
+        .width(30)
+        .margin({ right: 15 })
+        .backgroundColor("#00000000")
+        .onClick(() => {
+          console.log('删除项目:', this.title)
+        })
       }
-      .height(30)
-      .width(30)
-      .onClick(() => {
-        // 这里处理删除逻辑
-        console.log('删除项目:', this.title)
-      })
     }
     .justifyContent(FlexAlign.SpaceBetween)
     .width('100%')
@@ -65,11 +70,11 @@ export default struct HistoryItem {
         direction: SwipeDirection.Horizontal,
       })
       .onAction((event: GestureEvent) => {
-        if (event.offsetX < 0) {
+        if (event.offsetX < -30) {
           // 向左滑动显示删除按钮
           this.translateX = -80
           this.showDeleteIcon = true
-        } else if (event.offsetX > 0) {
+        } else if (event.offsetX > 30) {
           // 向右滑动隐藏删除按钮
           this.translateX = 0
           this.showDeleteIcon = false
